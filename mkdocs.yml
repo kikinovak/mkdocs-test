@@ -1,0 +1,4 @@
+site_name: GitHub Pages Test
+site_url: https://kikinovak.github.io/mkdocs-test/
+theme:
+  name: material
